@@ -2,11 +2,11 @@
 
 ## Introduction
 
-We're going to build a history site for New York City, so we're going to need to create the following database structure:
+<!--We're going to build a history site for New York City, so we're going to need to create the following database structure:-->
 
-* You will have three models (and their corresponding tables) `Landmark`, `Title`, `Figure` (think historical figure). 
-* A landmark `belongs_to` a figure and a figure `has_many` landmarks. 
-* Titles and figures have a "many-to-many" relationship, so we'll need a join table. 
+<!--* You will have three models (and their corresponding tables) `Landmark`, `Title`, `Figure` (think historical figure). -->
+<!--* A landmark `belongs_to` a figure and a figure `has_many` landmarks. -->
+<!--* Titles and figures have a "many-to-many" relationship, so we'll need a join table. -->
 
 ### Domain Model
 
